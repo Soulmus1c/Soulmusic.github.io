@@ -1,0 +1,19 @@
+#blog h3,h4{
+    text-align: center;
+    color: #fff;
+}
+
+#blog .contenedor{
+    display: flex;
+    justify-content: center;
+    flex-wrap: auto;
+
+}
+
+#blog article{
+    margin: 10px;
+}
+#blog img{
+    width: 100%;
+    max-width: 500px;
+}

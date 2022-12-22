@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+body{
+    font-family: arial, helvetica;
+    background: black;
+    
+}
+.menu{
+    list-style: none;
+    padding: 0;
+    background: black;
+    width: 100%;
+  
+    max-width: 400px;
+    margin: auto;
+}
+.menu li a{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    display: block;
+}
+.menu li{
+    
+    text-align: center;
+}
+.menu li a:hover{
+    background: darkred;
+} 
